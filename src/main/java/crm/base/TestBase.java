@@ -17,7 +17,10 @@ public class TestBase {
 	public static Properties prop;
 	
 	
-	
+	/*
+	 * 
+	 * new  thing
+	 */
 	public TestBase()  {                  //Construtcor of base class
 		
 		try {
